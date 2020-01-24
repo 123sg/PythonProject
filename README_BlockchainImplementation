@@ -1,0 +1,3 @@
+This Blockchain Implementation code was for a Graduate level Python course assignment. 
+I created a make-believe blockchain called PandasChain. I implemented a simple blockchain data structure
+to record make-believe transactions and to display them onto a time-series graph, in Python.
